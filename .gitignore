@@ -2,5 +2,6 @@
 *.log
 *.pyc
 __pycache__
-creds
+*creds
 .env
+*venv
